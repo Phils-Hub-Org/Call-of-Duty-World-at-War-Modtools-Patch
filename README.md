@@ -2,9 +2,9 @@ A Call of Duty: World at War Modtools Patch
 
 Install WaW
 
-Drop Official Treyarch Modtools into waw root dir
+Drop Official Treyarch Modtools into a clean waw installation.
 
-Drop this patch into waw root dir (overwrite all when asked)
+Drop this patch in same folder (must obv drop after the modtools, not before).
 
 Official Call of Duty: World at War Modtools:
 
@@ -17,7 +17,7 @@ Official Call of Duty: World at War Modtools:
         CoD_WaW_MODTOOLS_1.4.zip: https://1drv.ms/u/s!AjIuIzvxDorcpeVUEuiEhlg-6DMXow?e=njpzTV
 
     Combined file (combined by me via python to remove human error of merging versions in wrong order):
-        official_treyarch_modtools.zip: coming soon!
+        official_treyarch_modtools.zip: https://1drv.ms/u/s!AjIuIzvxDorcx9FEZBsNGH6_35rqyw?e=45sddk
 
 Peace!
 
