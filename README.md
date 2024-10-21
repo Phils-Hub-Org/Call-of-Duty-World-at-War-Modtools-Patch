@@ -19,6 +19,4 @@ Official Call of Duty: World at War Modtools:
     Combined file (combined by me via python to remove human error of merging versions in wrong order):
         official_treyarch_modtools.zip: https://1drv.ms/u/s!AjIuIzvxDorcx9FEZBsNGH6_35rqyw?e=45sddk
 
-Peace!
-
 This is a Phils-Hub community-contributed project.
